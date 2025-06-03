@@ -86,7 +86,6 @@ while(1) :
             if thickness == -1:
                 continue
         
-
         # 계산
         sphere_area()
 
